@@ -1,0 +1,29 @@
+.user-profile-left-user-img {
+    position:absolute;
+    margin-top: -15px;
+    transform: translateY(-50%);
+}
+
+.user-profile-left-name {
+    margin-top: 75px;
+}
+.user-infos-container {
+    margin-bottom: 20px;
+}
+.user-infos-container  > *:not(:first-child) {
+    margin-top: 8px;
+}
+.user-infos-container .user-infos-item {
+    display: flex;
+    align-items: center;
+
+}
+.user-infos-container .user-infos-item > *:not(:first-child) {
+    margin-left: 10px;
+   
+}
+.user-infos-item-icon {
+    width: 20px;
+    display: flex;
+    justify-content: center;
+}

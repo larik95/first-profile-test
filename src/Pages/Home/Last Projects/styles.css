@@ -1,0 +1,17 @@
+.last-projects-container .last-projects-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #4b4b4b;
+    padding-bottom: 12px;
+}
+
+.last-projects-content {
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.last-projects-container .last-projects-content >*:not(:first-child){
+    margin-left: 25px;
+}

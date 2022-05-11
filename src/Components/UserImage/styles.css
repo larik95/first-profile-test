@@ -1,0 +1,12 @@
+.user-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #43b0ff;
+    border-radius: 50%;
+    display: inline-block;
+    overflow: hidden;
+    height: 150px;
+    width: 150px;
+
+}
