@@ -16,7 +16,7 @@ function SocialMedia() {
         <IoLogoGithub size={35} color="#acacac" />
       </a>
       <a
-        href="#"
+        href="https://www.linkedin.com/in/larissa-ferreira-62a86822a/"
         className="social-media-item"
         target="_blank"
         rel="noreferrer"

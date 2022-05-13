@@ -1,10 +1,10 @@
 import "./styles.css";
-import LogoImage from "../Logo/front-academy-logo.png";
+import LogoImg from './front-logo.png';
 
 function Logo () {
     return (
-        <div>
-            
+        <div >
+        <img className="logo-img" src={LogoImg} alt='logo-img' />
         </div>
     );
 }
