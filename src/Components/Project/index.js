@@ -1,10 +1,18 @@
 import "./styles.css";
+import Text from "../Text";
 
-function Project () {
+function Project ({
+    imageUrl,
+    title,
+    link
+}) {
     return (
-        <div>
-            Project
-        </div>
+        <a className='project-container' href={link} target="_blank" rel="noreferrer">
+            <img alt ={title} src={imageUrl} />
+            <div className="project-text">
+            <Text fontSize={20} > {title}</Text>
+            </div>
+        </a>
     );
 }
 

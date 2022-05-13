@@ -3,6 +3,7 @@ import Card from "../../../Components/Card";
 import UserProfile from "../UserProfile";
 import Technologies from "../Technologies";
 import LastProjects from "../Last Projects";
+import Certificates from "../Certificates";
 
 
 function CenterContent() {
@@ -14,7 +15,7 @@ function CenterContent() {
       <div className="center-content-container-right">
         <Technologies />
         <LastProjects />
-        <Card>Card 3</Card>
+        <Certificates />
       </div>
     </div>
   );

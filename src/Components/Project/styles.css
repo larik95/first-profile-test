@@ -1,0 +1,23 @@
+.project-container {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #1b1b1b;
+    overflow: hidden;
+    text-decoration: none;
+    color: #acacac;
+}
+.project-container:hover {
+    color: #fff;
+    transition: linear .2s;
+}
+.project-container img {
+    height: 55px;
+    width: 110px;
+    padding: 5px;
+}
+
+.project-container .project-text{
+    width: 100%;
+}

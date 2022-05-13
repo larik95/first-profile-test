@@ -1,0 +1,20 @@
+.certificate-container {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #1b1b1b;
+    overflow: hidden;
+    text-decoration: none;
+    color: #acacac;
+    padding: 10px;
+}
+
+.certificate-container img {
+    height: 65px;
+    
+}
+
+.certificate-container .certificate-text{
+    width: 100%;
+}

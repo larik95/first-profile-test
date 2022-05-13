@@ -3,6 +3,7 @@
 }
 .social-media-container {
     display: flex;
+    margin-top: 35px;
     
 }
 .social-media-container a  {
@@ -12,4 +13,9 @@
     padding: 10px;
     background-color: #242424;
     border-radius: 10px;
+}
+
+.social-media-container a:hover {
+    background-color: #585454;
+    transition: linear .2s;
 }

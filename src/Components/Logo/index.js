@@ -1,10 +1,10 @@
 import "./styles.css";
-import LogoImage from "./front-academy-logo.png"
+import LogoImage from "../Logo/front-academy-logo.png";
 
 function Logo () {
     return (
         <div>
-            Logo
+            
         </div>
     );
 }

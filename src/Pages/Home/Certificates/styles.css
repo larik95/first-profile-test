@@ -1,0 +1,19 @@
+.certicates-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #4b4b4b;
+    padding-bottom: 12px;
+}
+
+.certicates-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 12px;
+    padding-right: 85px;
+}
+
+.certificates-container .certicates-content >*:not(:first-child){
+    margin-top: 17px;
+}
