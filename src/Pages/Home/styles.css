@@ -24,3 +24,23 @@
 .home-container .home-container-content .home-container-content-bottom .logo-container {
     margin-left: 10px;
 }
+
+@media screen and (max-width: 1060px){
+
+    .home-container .home-container-content {
+        max-width: 600px;
+        margin: 0 auto;
+        min-height: 50vh;
+    }
+    
+}
+
+@media screen and (max-width: 500px){
+
+    .home-container .home-container-content {
+        max-width: 400px;
+        margin: 0 auto;
+        min-height: 40vh;
+    }
+    
+}

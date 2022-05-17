@@ -15,3 +15,16 @@
     margin-top: 22px;
 }
 
+@media screen and (max-width: 1060px){
+
+    .center-content-container {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .center-content-container-right {
+    padding-top: 50px;
+    margin-left: 0;
+    }
+    
+}
