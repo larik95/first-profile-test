@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-profile-test/static/css/main.bd6081dd.css",
+    "main.js": "/first-profile-test/static/js/main.8d791c76.js",
+    "static/js/787.ec704a7a.chunk.js": "/first-profile-test/static/js/787.ec704a7a.chunk.js",
+    "static/media/first-project.png": "/first-profile-test/static/media/first-project.43c871d41fac40e9ce55.png",
+    "static/media/iniciante-starter-pack-astronauta.png": "/first-profile-test/static/media/iniciante-starter-pack-astronauta.437bc6b534f0e3962616.png",
+    "static/media/projeto-responsivo.png": "/first-profile-test/static/media/projeto-responsivo.3c29e2fd2531c7d8b3e8.png",
+    "static/media/projeto-fashion.png": "/first-profile-test/static/media/projeto-fashion.6a420c0062626fa32596.png",
+    "static/media/front-logo.png": "/first-profile-test/static/media/front-logo.276dc4b69ea7e451cb12.png",
+    "static/media/userimg.jpeg": "/first-profile-test/static/media/userimg.f5d7d0943ce55117a5ae.jpeg",
+    "static/media/Azonix.woff": "/first-profile-test/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
+    "index.html": "/first-profile-test/index.html",
+    "main.bd6081dd.css.map": "/first-profile-test/static/css/main.bd6081dd.css.map",
+    "main.8d791c76.js.map": "/first-profile-test/static/js/main.8d791c76.js.map",
+    "787.ec704a7a.chunk.js.map": "/first-profile-test/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6081dd.css",
+    "static/js/main.8d791c76.js"
+  ]
+}
