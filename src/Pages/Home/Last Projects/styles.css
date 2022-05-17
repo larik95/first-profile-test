@@ -35,3 +35,11 @@
     background-color: #302f2f;
     border-radius: 10px;
 }
+
+@media screen and (max-width: 500px){
+
+    .last-projects-content {
+       padding-right: 10px;
+    }
+    
+}

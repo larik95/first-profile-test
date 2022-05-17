@@ -17,3 +17,11 @@
 .certificates-container .certicates-content >*:not(:first-child){
     margin-top: 17px;
 }
+
+@media screen and (max-width: 500px){
+
+    .certicates-content {
+        padding-right: 0px;
+    }
+    
+}

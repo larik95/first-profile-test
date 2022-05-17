@@ -15,7 +15,7 @@ function UserProfile() {
         <UserImage />
       </div>
       <div className="user-profile-left-name">
-        <Heading fontSize={28}>Larissa Ferreira</Heading>
+        <Heading fontSize={24}>Larissa Ferreira</Heading>
       </div>
       <Heading color="#5DB9FA" fontSize={20} fontWeight={200}>
         Junior, 6 meses de experiência

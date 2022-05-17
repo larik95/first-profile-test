@@ -39,3 +39,19 @@ p {
 .bio-social-media{
     padding-top: 25px;
 }
+
+@media screen and (max-width: 500px){
+
+    .user-profile-left-name {
+        margin-top: 55px;
+        margin-bottom: 10px;
+    }
+    .user-infos-container {
+        margin-bottom: 5px;
+    }
+    p {
+        padding: 10px 0px 10px 0px;
+        text-align: justify;
+    }
+    
+}

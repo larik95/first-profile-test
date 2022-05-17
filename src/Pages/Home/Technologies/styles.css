@@ -17,3 +17,12 @@
     align-items: center;
     margin-right: 15px;
 }
+
+@media screen and (max-width: 500px){
+
+    .headingsize {
+        font-size: 10px;
+    }
+   
+    
+}

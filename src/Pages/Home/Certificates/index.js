@@ -11,8 +11,8 @@ function Certificates () {
     <Card>
     <div className="certicates-container">
       <div className="certicates-header">
-        <Heading fontSize={24}>Certificados</Heading>
-        <Heading fontSize={16} color="#acacac">
+        <Heading>Certificados</Heading>
+        <Heading fontSize={14} color="#acacac">
           VER TODOS
         </Heading>
       </div>

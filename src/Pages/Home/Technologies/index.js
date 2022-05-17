@@ -12,7 +12,9 @@ function Technologies() {
     <Card>
       <div className="technologies-container">
         <div className="technologies-header">
-          <Heading fontSize={26}>Tecnologias e frameworks</Heading>
+          <Heading className="headingsize">
+            Tecnologias e frameworks
+          </Heading>
         </div>
         <div className="technologies-content">
           <div className="technologies-logo">

@@ -12,8 +12,8 @@ function LastProjects() {
     <Card paddingBottom={0}>
       <div className="last-projects-container">
         <div className="last-projects-header">
-          <Heading fontSize={24}>Últimos projetos</Heading>
-          <Heading fontSize={16} color="#acacac">
+          <Heading>Últimos projetos</Heading>
+          <Heading fontSize={14} color="#acacac">
             VER TODOS
           </Heading>
         </div>
