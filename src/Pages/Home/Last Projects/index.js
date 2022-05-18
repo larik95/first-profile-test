@@ -20,8 +20,8 @@ function LastProjects() {
         <div className="last-projects-rapper">
 
         <div className="last-projects-content">
-          <Project imageUrl={ProjetoResponsivo} link="https://github.com/larik95/Projeto-Responsivo--" title="Projeto Responsivo" />
-          <Project imageUrl={ProjetoFashion} link="#" title="Projeto Fashion" />
+          <Project imageUrl={ProjetoResponsivo} link="rangehotel.vercel.app" title="Projeto Responsivo" />
+          <Project imageUrl={ProjetoFashion} link="https://fashion-psi.vercel.app/" title="Projeto Fashion" />
           <Project imageUrl={CursoWeb} link="#" title="Projeto Curso Web" />
         </div>
         </div>
