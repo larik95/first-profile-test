@@ -19,10 +19,10 @@ function Certificates () {
       <div className="certicates-content">
         <Certificate
         imageUrl={StarterPack}
-        link="https://www.frontacademy.com.br/#starter-pack"
+        link="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/114744014517100872545607175394384289508579300724341038746707473297364607827969"
         title="STARTER PACK"
         subtitle="Front Academy, 2022"
-        autenticationCode="Autenticação 000120324450225"
+        autenticationCode="Autenticação 1147440145"
         />
       </div>
     </div>
