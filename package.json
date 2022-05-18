@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
-  "homepage": "https://larik95.github.io/first-profile-test",
+  "homepage": "https://larissaferreira.vercel.app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
