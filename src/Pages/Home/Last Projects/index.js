@@ -1,7 +1,7 @@
 import Heading from "../../../Components/Heading";
 import Project from "../../../Components/Project";
 import Card from "../../../Components/Card";
-import CursoWeb from "../Last Projects/first-project.png";
+import SunnysideAgency from '../Last Projects/desktop-preview.jpg'
 import ProjetoFashion from "../Last Projects/projeto-fashion.png";
 import ProjetoResponsivo from "../Last Projects/projeto-responsivo.png";
 
@@ -20,9 +20,9 @@ function LastProjects() {
         <div className="last-projects-rapper">
 
         <div className="last-projects-content">
-          <Project imageUrl={ProjetoResponsivo} link="rangehotel.vercel.app" title="Projeto Responsivo" />
+          <Project imageUrl={SunnysideAgency} link="https://sunnyside-flame.vercel.app/" title="Sunnyside Agency" />
+          <Project imageUrl={ProjetoResponsivo} link="https://rangehotel.vercel.app/" title="Projeto Responsivo" />
           <Project imageUrl={ProjetoFashion} link="https://fashion-psi.vercel.app/" title="Projeto Fashion" />
-          <Project imageUrl={CursoWeb} link="#" title="Projeto Curso Web" />
         </div>
         </div>
       </div>
