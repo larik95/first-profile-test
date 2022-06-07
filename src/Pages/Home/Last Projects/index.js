@@ -4,6 +4,7 @@ import Card from "../../../Components/Card";
 import SunnysideAgency from '../Last Projects/desktop-preview.jpg'
 import ProjetoFashion from "../Last Projects/projeto-fashion.png";
 import ProjetoResponsivo from "../Last Projects/projeto-responsivo.png";
+import SecretWord from "../Last Projects/secret-word.png";
 
 import "./styles.css";
 
@@ -20,6 +21,7 @@ function LastProjects() {
         <div className="last-projects-rapper">
 
         <div className="last-projects-content">
+          <Project imageUrl={SecretWord} link="https://secret-word-larissaferreira95lf-gmailcom.vercel.app/" title="Secret Word" />
           <Project imageUrl={SunnysideAgency} link="https://sunnyside-flame.vercel.app/" title="Sunnyside Agency" />
           <Project imageUrl={ProjetoResponsivo} link="https://rangehotel.vercel.app/" title="Projeto Responsivo" />
           <Project imageUrl={ProjetoFashion} link="https://fashion-psi.vercel.app/" title="Projeto Fashion" />
